@@ -1,5 +1,5 @@
 # Double Adaptor And Meta Learning
-
+This is a program to generate alpha signals for stocks, cryptos, etc.\
 Use double adaptor to make the distribution of the latest data close to the previous one
 as a method to enhance incremental learning.\
 Then use meta learning to conduct the learning process.
